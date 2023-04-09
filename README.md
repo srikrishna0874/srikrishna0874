@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @srikrishna0874
 - I am currently pursuing B.Tech in Vignan's Institute of Information Technology, Visakhapatnam
 - 👀 I love to code and learn many algorithms
+- I am an app developer, built many hybrid apps..
 - 🌱 I’m currently learning to build interactive and responsive websites 
 - 📫 How to reach me kskvsubbarao2019@gmail.com
 
